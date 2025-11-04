@@ -35,6 +35,6 @@ Simulate the network and observe the configurations.<br><br><br>
 
 💬 Author
 
-Dnyaneshwar Padol<br>
+DDP<br>
 Student | Networking
 </p>
