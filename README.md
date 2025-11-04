@@ -34,7 +34,6 @@ Open any .pkt file using Cisco Packet Tracer.<br>
 Simulate the network and observe the configurations.<br><br><br>
 
 💬 Author
-
-DDP<br>
+Batman
 Student | Networking
 </p>
